@@ -1,0 +1,366 @@
+city,restaurant_type,name
+BTM,Bakery,76
+BTM,Cafe,290
+BTM,Casual Dining,711
+BTM,"Casual Dining, Bar",22
+BTM,Delivery,254
+BTM,Dessert Parlor,112
+BTM,Others,563
+BTM,Quick Bites,2720
+BTM,"Takeaway, Delivery",334
+Banashankari,Bakery,20
+Banashankari,Cafe,87
+Banashankari,Casual Dining,148
+Banashankari,"Casual Dining, Bar",1
+Banashankari,Delivery,28
+Banashankari,Dessert Parlor,47
+Banashankari,Others,126
+Banashankari,Quick Bites,428
+Banashankari,"Takeaway, Delivery",17
+Banaswadi,Bakery,27
+Banaswadi,Cafe,44
+Banaswadi,Casual Dining,111
+Banaswadi,"Casual Dining, Bar",9
+Banaswadi,Delivery,13
+Banaswadi,Dessert Parlor,12
+Banaswadi,Others,85
+Banaswadi,Quick Bites,328
+Banaswadi,"Takeaway, Delivery",22
+Bannerghatta Road,Bakery,53
+Bannerghatta Road,Cafe,79
+Bannerghatta Road,Casual Dining,317
+Bannerghatta Road,"Casual Dining, Bar",10
+Bannerghatta Road,Delivery,69
+Bannerghatta Road,Dessert Parlor,97
+Bannerghatta Road,Others,291
+Bannerghatta Road,Quick Bites,646
+Bannerghatta Road,"Takeaway, Delivery",60
+Basavanagudi,Bakery,35
+Basavanagudi,Cafe,42
+Basavanagudi,Casual Dining,98
+Basavanagudi,"Casual Dining, Bar",8
+Basavanagudi,Dessert Parlor,52
+Basavanagudi,Others,68
+Basavanagudi,Quick Bites,377
+Basavanagudi,"Takeaway, Delivery",4
+Bellandur,Bakery,16
+Bellandur,Cafe,55
+Bellandur,Casual Dining,295
+Bellandur,"Casual Dining, Bar",28
+Bellandur,Delivery,60
+Bellandur,Dessert Parlor,30
+Bellandur,Others,272
+Bellandur,Quick Bites,447
+Bellandur,"Takeaway, Delivery",65
+Brigade Road,Bakery,30
+Brigade Road,Cafe,111
+Brigade Road,Casual Dining,289
+Brigade Road,"Casual Dining, Bar",26
+Brigade Road,Dessert Parlor,86
+Brigade Road,Others,344
+Brigade Road,Quick Bites,314
+Brigade Road,"Takeaway, Delivery",10
+Brookefield,Bakery,23
+Brookefield,Cafe,35
+Brookefield,Casual Dining,135
+Brookefield,"Casual Dining, Bar",12
+Brookefield,Delivery,6
+Brookefield,Dessert Parlor,36
+Brookefield,Others,92
+Brookefield,Quick Bites,309
+Brookefield,"Takeaway, Delivery",10
+Church Street,Cafe,92
+Church Street,Casual Dining,151
+Church Street,"Casual Dining, Bar",71
+Church Street,Dessert Parlor,41
+Church Street,Others,117
+Church Street,Quick Bites,94
+Commercial Street,Bakery,6
+Commercial Street,Cafe,20
+Commercial Street,Casual Dining,71
+Commercial Street,Dessert Parlor,19
+Commercial Street,Others,105
+Commercial Street,Quick Bites,143
+Commercial Street,"Takeaway, Delivery",6
+Cunningham Road,Bakery,3
+Cunningham Road,Cafe,46
+Cunningham Road,Casual Dining,202
+Cunningham Road,Delivery,4
+Cunningham Road,Dessert Parlor,27
+Cunningham Road,Others,132
+Cunningham Road,Quick Bites,76
+Domlur,Bakery,26
+Domlur,Cafe,19
+Domlur,Casual Dining,90
+Domlur,"Casual Dining, Bar",13
+Domlur,Delivery,58
+Domlur,Dessert Parlor,11
+Domlur,Others,118
+Domlur,Quick Bites,146
+Domlur,"Takeaway, Delivery",15
+Ejipura,Casual Dining,27
+Ejipura,Delivery,46
+Ejipura,Dessert Parlor,19
+Ejipura,Others,26
+Ejipura,Quick Bites,301
+Ejipura,"Takeaway, Delivery",19
+Electronic City,Bakery,39
+Electronic City,Cafe,43
+Electronic City,Casual Dining,282
+Electronic City,"Casual Dining, Bar",19
+Electronic City,Delivery,61
+Electronic City,Dessert Parlor,23
+Electronic City,Others,158
+Electronic City,Quick Bites,562
+Electronic City,"Takeaway, Delivery",60
+Frazer Town,Bakery,33
+Frazer Town,Cafe,35
+Frazer Town,Casual Dining,152
+Frazer Town,Delivery,61
+Frazer Town,Dessert Parlor,44
+Frazer Town,Others,55
+Frazer Town,Quick Bites,301
+Frazer Town,"Takeaway, Delivery",39
+HSR,Bakery,33
+HSR,Cafe,141
+HSR,Casual Dining,541
+HSR,"Casual Dining, Bar",23
+HSR,Delivery,186
+HSR,Dessert Parlor,125
+HSR,Others,286
+HSR,Quick Bites,931
+HSR,"Takeaway, Delivery",243
+Indiranagar,Bakery,28
+Indiranagar,Cafe,201
+Indiranagar,Casual Dining,481
+Indiranagar,"Casual Dining, Bar",51
+Indiranagar,Delivery,172
+Indiranagar,Dessert Parlor,121
+Indiranagar,Others,440
+Indiranagar,Quick Bites,488
+Indiranagar,"Takeaway, Delivery",86
+JP Nagar,Bakery,63
+JP Nagar,Cafe,159
+JP Nagar,Casual Dining,543
+JP Nagar,"Casual Dining, Bar",53
+JP Nagar,Delivery,125
+JP Nagar,Dessert Parlor,114
+JP Nagar,Others,340
+JP Nagar,Quick Bites,699
+JP Nagar,"Takeaway, Delivery",125
+Jayanagar,Bakery,59
+Jayanagar,Cafe,201
+Jayanagar,Casual Dining,489
+Jayanagar,"Casual Dining, Bar",18
+Jayanagar,Delivery,14
+Jayanagar,Dessert Parlor,133
+Jayanagar,Others,264
+Jayanagar,Quick Bites,733
+Jayanagar,"Takeaway, Delivery",13
+Kalyan Nagar,Bakery,17
+Kalyan Nagar,Cafe,76
+Kalyan Nagar,Casual Dining,241
+Kalyan Nagar,"Casual Dining, Bar",9
+Kalyan Nagar,Delivery,31
+Kalyan Nagar,Dessert Parlor,62
+Kalyan Nagar,Others,146
+Kalyan Nagar,Quick Bites,245
+Kalyan Nagar,"Takeaway, Delivery",17
+Kammanahalli,Bakery,2
+Kammanahalli,Cafe,52
+Kammanahalli,Casual Dining,143
+Kammanahalli,"Casual Dining, Bar",10
+Kammanahalli,Delivery,24
+Kammanahalli,Dessert Parlor,2
+Kammanahalli,Others,82
+Kammanahalli,Quick Bites,285
+Kammanahalli,"Takeaway, Delivery",42
+Koramangala 1st Block,Bakery,42
+Koramangala 1st Block,Cafe,97
+Koramangala 1st Block,Casual Dining,102
+Koramangala 1st Block,"Casual Dining, Bar",57
+Koramangala 1st Block,Delivery,107
+Koramangala 1st Block,Dessert Parlor,34
+Koramangala 1st Block,Others,81
+Koramangala 1st Block,Quick Bites,619
+Koramangala 1st Block,"Takeaway, Delivery",98
+Koramangala 4th Block,Bakery,33
+Koramangala 4th Block,Cafe,138
+Koramangala 4th Block,Casual Dining,179
+Koramangala 4th Block,"Casual Dining, Bar",44
+Koramangala 4th Block,Delivery,121
+Koramangala 4th Block,Dessert Parlor,55
+Koramangala 4th Block,Others,248
+Koramangala 4th Block,Quick Bites,169
+Koramangala 4th Block,"Takeaway, Delivery",30
+Koramangala 5th Block,Bakery,28
+Koramangala 5th Block,Cafe,361
+Koramangala 5th Block,Casual Dining,559
+Koramangala 5th Block,"Casual Dining, Bar",81
+Koramangala 5th Block,Delivery,51
+Koramangala 5th Block,Dessert Parlor,171
+Koramangala 5th Block,Others,612
+Koramangala 5th Block,Quick Bites,591
+Koramangala 5th Block,"Takeaway, Delivery",48
+Koramangala 6th Block,Bakery,14
+Koramangala 6th Block,Cafe,109
+Koramangala 6th Block,Casual Dining,216
+Koramangala 6th Block,Delivery,80
+Koramangala 6th Block,Dessert Parlor,49
+Koramangala 6th Block,Others,227
+Koramangala 6th Block,Quick Bites,416
+Koramangala 6th Block,"Takeaway, Delivery",28
+Koramangala 7th Block,Bakery,25
+Koramangala 7th Block,Cafe,117
+Koramangala 7th Block,Casual Dining,283
+Koramangala 7th Block,"Casual Dining, Bar",59
+Koramangala 7th Block,Delivery,102
+Koramangala 7th Block,Dessert Parlor,81
+Koramangala 7th Block,Others,221
+Koramangala 7th Block,Quick Bites,260
+Koramangala 7th Block,"Takeaway, Delivery",31
+Koramangala 8th Block,Bakery,10
+Koramangala 8th Block,Cafe,31
+Koramangala 8th Block,Casual Dining,10
+Koramangala 8th Block,Delivery,50
+Koramangala 8th Block,Dessert Parlor,14
+Koramangala 8th Block,Others,69
+Koramangala 8th Block,Quick Bites,112
+Koramangala 8th Block,"Takeaway, Delivery",16
+Lavelle Road,Bakery,20
+Lavelle Road,Cafe,5
+Lavelle Road,Casual Dining,79
+Lavelle Road,"Casual Dining, Bar",119
+Lavelle Road,Delivery,10
+Lavelle Road,Dessert Parlor,12
+Lavelle Road,Others,233
+Lavelle Road,Quick Bites,46
+MG Road,Bakery,3
+MG Road,Cafe,102
+MG Road,Casual Dining,172
+MG Road,"Casual Dining, Bar",40
+MG Road,Delivery,6
+MG Road,Dessert Parlor,45
+MG Road,Others,369
+MG Road,Quick Bites,168
+MG Road,"Takeaway, Delivery",12
+Malleshwaram,Bakery,15
+Malleshwaram,Cafe,59
+Malleshwaram,Casual Dining,115
+Malleshwaram,"Casual Dining, Bar",14
+Malleshwaram,Delivery,7
+Malleshwaram,Dessert Parlor,55
+Malleshwaram,Others,219
+Malleshwaram,Quick Bites,232
+Malleshwaram,"Takeaway, Delivery",6
+Marathahalli,Bakery,49
+Marathahalli,Cafe,67
+Marathahalli,Casual Dining,394
+Marathahalli,"Casual Dining, Bar",46
+Marathahalli,Delivery,109
+Marathahalli,Dessert Parlor,69
+Marathahalli,Others,271
+Marathahalli,Quick Bites,746
+Marathahalli,"Takeaway, Delivery",71
+New BEL Road,Bakery,9
+New BEL Road,Cafe,73
+New BEL Road,Casual Dining,115
+New BEL Road,"Casual Dining, Bar",2
+New BEL Road,Delivery,22
+New BEL Road,Dessert Parlor,31
+New BEL Road,Others,92
+New BEL Road,Quick Bites,286
+New BEL Road,"Takeaway, Delivery",16
+Old Airport Road,Bakery,23
+Old Airport Road,Cafe,9
+Old Airport Road,Casual Dining,72
+Old Airport Road,"Casual Dining, Bar",8
+Old Airport Road,Delivery,32
+Old Airport Road,Dessert Parlor,9
+Old Airport Road,Others,100
+Old Airport Road,Quick Bites,170
+Old Airport Road,"Takeaway, Delivery",17
+Others,Bakery,94
+Others,Cafe,284
+Others,Casual Dining,911
+Others,"Casual Dining, Bar",72
+Others,Delivery,372
+Others,Dessert Parlor,104
+Others,Others,758
+Others,Quick Bites,1861
+Others,"Takeaway, Delivery",222
+Rajajinagar,Bakery,16
+Rajajinagar,Cafe,6
+Rajajinagar,Casual Dining,112
+Rajajinagar,"Casual Dining, Bar",16
+Rajajinagar,Delivery,12
+Rajajinagar,Dessert Parlor,31
+Rajajinagar,Others,50
+Rajajinagar,Quick Bites,324
+Rajajinagar,"Takeaway, Delivery",24
+Residency Road,Cafe,58
+Residency Road,Casual Dining,152
+Residency Road,"Casual Dining, Bar",9
+Residency Road,Delivery,14
+Residency Road,Dessert Parlor,65
+Residency Road,Others,234
+Residency Road,Quick Bites,118
+Residency Road,"Takeaway, Delivery",22
+Richmond Road,Bakery,10
+Richmond Road,Cafe,51
+Richmond Road,Casual Dining,203
+Richmond Road,"Casual Dining, Bar",14
+Richmond Road,Delivery,8
+Richmond Road,Dessert Parlor,30
+Richmond Road,Others,161
+Richmond Road,Quick Bites,318
+Richmond Road,"Takeaway, Delivery",16
+Sarjapur Road,Bakery,52
+Sarjapur Road,Cafe,50
+Sarjapur Road,Casual Dining,198
+Sarjapur Road,"Casual Dining, Bar",16
+Sarjapur Road,Delivery,97
+Sarjapur Road,Dessert Parlor,50
+Sarjapur Road,Others,180
+Sarjapur Road,Quick Bites,381
+Sarjapur Road,"Takeaway, Delivery",31
+Shanti Nagar,Bakery,6
+Shanti Nagar,Cafe,46
+Shanti Nagar,Casual Dining,145
+Shanti Nagar,Delivery,13
+Shanti Nagar,Dessert Parlor,10
+Shanti Nagar,Others,67
+Shanti Nagar,Quick Bites,201
+Shanti Nagar,"Takeaway, Delivery",20
+Shivajinagar,Bakery,6
+Shivajinagar,Cafe,22
+Shivajinagar,Casual Dining,43
+Shivajinagar,"Casual Dining, Bar",23
+Shivajinagar,Dessert Parlor,4
+Shivajinagar,Others,61
+Shivajinagar,Quick Bites,327
+Shivajinagar,"Takeaway, Delivery",12
+St. Marks Road,Cafe,20
+St. Marks Road,Casual Dining,95
+St. Marks Road,"Casual Dining, Bar",60
+St. Marks Road,Dessert Parlor,20
+St. Marks Road,Others,66
+St. Marks Road,Quick Bites,82
+Ulsoor,Bakery,38
+Ulsoor,Cafe,129
+Ulsoor,Casual Dining,174
+Ulsoor,"Casual Dining, Bar",48
+Ulsoor,Delivery,27
+Ulsoor,Dessert Parlor,26
+Ulsoor,Others,182
+Ulsoor,Quick Bites,372
+Ulsoor,"Takeaway, Delivery",21
+Whitefield,Bakery,58
+Whitefield,Cafe,65
+Whitefield,Casual Dining,459
+Whitefield,"Casual Dining, Bar",37
+Whitefield,Delivery,139
+Whitefield,Dessert Parlor,81
+Whitefield,Others,455
+Whitefield,Quick Bites,721
+Whitefield,"Takeaway, Delivery",101
